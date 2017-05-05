@@ -1,0 +1,22 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stikyyeti/first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stikyyeti/first/issues"
+  },
+  "homepage": "https://github.com/stikyyeti/first#readme",
+  "dependencies": {
+    "serverless": "^1.12.1"
+  }
+}
